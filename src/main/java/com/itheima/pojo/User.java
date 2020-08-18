@@ -13,4 +13,7 @@ public class User {
     int abcd;
     int sss;
     String abcdeg;
+
+    double a;
+    double b;
 }
